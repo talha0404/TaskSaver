@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "72EF5B41-DA72-471D-8AA9-FA79AEC27FBB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C5348C5-EA5F-46C7-B74D-B4E8FD55DAED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Homework/Scenes/TaskDetail/TaskDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "saveTask(title:details:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C5348C5-EA5F-46C7-B74D-B4E8FD55DAED - 6a00c34d7dc0d70f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework.TaskDetailViewModel.saveTask(title: Swift.String, details: Swift.String) -&gt; ()"
+                  moduleName = "Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talha.sahin/Desktop/Homework/Homework/Scenes/TaskDetail/TaskDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "0C5348C5-EA5F-46C7-B74D-B4E8FD55DAED - 6a00c34d7dc0d70f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework.TaskDetailViewModel.saveTask(title: Swift.String, details: Swift.String) -&gt; ()"
+                  moduleName = "Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talha.sahin/Desktop/Homework/Homework/Scenes/TaskDetail/TaskDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "988">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA1E717E-8AAF-4FD1-A02D-E2B04601E73D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Homework/Scenes/TaskList/TaskListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "didSubmitData(data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA1E717E-8AAF-4FD1-A02D-E2B04601E73D - 35a783be9e1bc8bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework.TaskListViewController.didSubmitData(data: Swift.String) -&gt; ()"
+                  moduleName = "Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talha.sahin/Desktop/Homework/Homework/Scenes/TaskList/TaskListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "FA1E717E-8AAF-4FD1-A02D-E2B04601E73D - 35a783be9e1bc8bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework.TaskListViewController.didSubmitData(data: Swift.String) -&gt; ()"
+                  moduleName = "Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talha.sahin/Desktop/Homework/Homework/Scenes/TaskList/TaskListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
